@@ -1,0 +1,6 @@
+{
+    "port": 3005,
+    "database": {
+        "url": "mongodb+srv://bastoprueba:nvcJjs49zgbe045e@basto.kaq9tmp.mongodb.net/test"
+    }
+}
